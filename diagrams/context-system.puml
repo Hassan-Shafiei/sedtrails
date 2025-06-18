@@ -8,7 +8,7 @@ scale 2
 Person(modeler, "Modeler", "Tracks particles in a costal system")
 Person(analyst, "Analyst", "Processes and visualizes simulation outputs")
 
-System(sedtrails, "SedTRAILS Particle Tracking System", "Simulates the position of particles (x,y,t) in a costal system over time", $type="Python application")
+System(sedtrails, "SedTRAILS Particle Tracking System", "Simulates the position of particles (x,y,t) in a coastal system over time", $type="Python application")
 
 System_Ext(flowSystem, "Eulerian Flow Modeling System", "Simulates flows of water and wind", $type="Any")
 
